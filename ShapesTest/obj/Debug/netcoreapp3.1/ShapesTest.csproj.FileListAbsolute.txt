@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\shapestest\obj\Debug\netcoreapp3.1\ShapesTest.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\shapestest\obj\Debug\netcoreapp3.1\ShapesTest.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\shapestest\obj\Debug\netcoreapp3.1\ShapesTest.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\shapestest\bin\Debug\netcoreapp3.1\ShapesTest.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\shapestest\bin\Debug\netcoreapp3.1\ShapesTest.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\shapestest\bin\Debug\netcoreapp3.1\ShapesTest.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\shapestest\bin\Debug\netcoreapp3.1\ShapesTest.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\shapestest\bin\Debug\netcoreapp3.1\ShapesTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\shapestest\bin\Debug\netcoreapp3.1\ShapesTest.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\shapestest\obj\Debug\netcoreapp3.1\ShapesTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\shapestest\obj\Debug\netcoreapp3.1\ShapesTest.pdb

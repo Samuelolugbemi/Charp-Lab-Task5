@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\savings\bin\Debug\netcoreapp3.1\SavingsAccount.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\savings\bin\Debug\netcoreapp3.1\SavingsAccount.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\savings\bin\Debug\netcoreapp3.1\SavingsAccount.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\savings\bin\Debug\netcoreapp3.1\SavingsAccount.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\savings\bin\Debug\netcoreapp3.1\SavingsAccount.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\savings\bin\Debug\netcoreapp3.1\SavingsAccount.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\savings\obj\Debug\netcoreapp3.1\SavingsAccount.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\savings\obj\Debug\netcoreapp3.1\SavingsAccount.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\savings\obj\Debug\netcoreapp3.1\SavingsAccount.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\savings\obj\Debug\netcoreapp3.1\SavingsAccount.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task5\savings\obj\Debug\netcoreapp3.1\SavingsAccount.pdb
